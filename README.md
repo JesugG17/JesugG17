@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m an student of computer systems, improving my skills on web developme. searching a training program :)
+I´m an student of computer systems, improving my skills on web development. searching a training program :)
 
 
 ## 🌐 Socials:
