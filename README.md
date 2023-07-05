@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m an student of computer systems, improving my skills on web development. searching a training program :)
+Software engineer who loves face new problems and solves it, apassionate of learn new things every day :).
 
 
 ## 🌐 Socials:
