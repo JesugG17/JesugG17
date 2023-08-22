@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer who loves face new problems and solves it, apassionate of learn new things every day :).
+Software developer who loves face new problems and solves it, apassionate of learn new things every day :).
 
 
 ## 🌐 Socials:
